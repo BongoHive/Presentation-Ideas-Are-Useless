@@ -1,17 +1,17 @@
-*.log
-.idea/
+*.eml
 *.iml
 *.iws
-*.eml
-out/
+*.log
 .DS_Store
-.svn
-log/*.log
-tmp/**
-node_modules/
+.idea/
 .sass-cache
+.svn
 css/reveal.min.css
 js/reveal.min.js
+log/*.log
+node_modules/
+out/
+tmp/**
 
 
 
