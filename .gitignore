@@ -12,11 +12,3 @@ log/*.log
 node_modules/
 out/
 tmp/**
-
-
-
-
-
-
-# Ignore background images because they are super-big!
-assets/images/backgrounds
